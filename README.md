@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 3.0 and Blockchain Technologies
 - 🌱 I’m currently learning Web Development 3.0 and Blockchain
 - 💞️ I’m looking to collaborate on Web Development 3.0
-- 📫 How to reach me on LinkedIn Profile: shorturl.at/fhzG8
+- 📫 How to reach me on LinkedIn Profile: https://www.shorturl.at/fhzG8
 
 <!---
 pranjal-rauthan/pranjal-rauthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
